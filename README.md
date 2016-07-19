@@ -1,4 +1,4 @@
-# la-webapp
+# linuxaccra-www
 The official website for Linux Accra User Group.
 
 ##Pages
