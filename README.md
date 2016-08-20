@@ -9,11 +9,11 @@ The official website for Linux Accra User Group.
 This project is built with Symfony.
 Page layout considered is as below:
 
- *Profile pages
- *Project pages
-..start-finish
-..members
-..artifacts
+*Profile pages
+*Project pages
+..*start-finish
+..*members
+..*artifacts
 
 
 ##Installation
