@@ -11,9 +11,9 @@ Page layout considered is as below:
 
 * Profile pages
 * Project pages
-..* start-finish
-..* members
-..* artifacts
+  * start-finish
+  * members
+  * artifacts
 
 
 ##Installation
