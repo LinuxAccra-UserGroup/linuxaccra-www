@@ -1,5 +1,6 @@
 # linuxaccra-www
 
+
 ##Description
 The official website for Linux Accra User Group. 
 
@@ -8,13 +9,11 @@ The official website for Linux Accra User Group.
 This project is built with Symfony.
 Page layout considered is as below:
 
-<dl> 
- <dt>Profile pages</dt>
- <dt>Project pages</dt>
-   <dd>start-finish</dd>
-   <dd>members</dd>
-   <dd>artifacts</dd>
-</dl>
+ *Profile pages
+ *Project pages
+..start-finish
+..members
+..artifacts
 
 
 ##Installation
