@@ -15,6 +15,8 @@ class HomeController extends Controller
 
   public function mainDisplay()
   {
-    
+    $html = $this->container->get('templating')->render('home/main.html.twig');
+
+    return new Response($html);
   }
 }
