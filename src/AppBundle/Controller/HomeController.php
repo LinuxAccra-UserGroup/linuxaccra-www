@@ -19,4 +19,14 @@ class HomeController extends Controller
 
     return new Response($html);
   }
+
+  /**
+  * @Route("home/about")
+  */
+
+  public function aboutDisplay()
+  {
+    $html = $this->container->get('templating')->render('home/about.html.twig');
+    return new Response($html);
+  }
 }
